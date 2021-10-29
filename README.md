@@ -3,6 +3,8 @@
 # Syllabus 
 
 ## Contact Information 
+**Instructor:**  Professor Patrick McDaniel, pdm12@psu.edu
+
 **Administrative Contact:**  Amy Hasan, alh31@psu.edu 
 
 **TA Information**
