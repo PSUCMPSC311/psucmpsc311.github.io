@@ -20,7 +20,7 @@ Blaine Hoak | bdh22@psu.edu
 
 **Credits:** 1 
 
-**Sections/Time/Location:** M 6:00-8:00PM (Location: TBD) 
+**Sections/Time/Location:** M 6:00-8:00PM (Location: 102 Leonhard Building) 
 
 ## Overview
 
