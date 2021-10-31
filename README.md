@@ -18,8 +18,6 @@ Rachel King | rak5519@psu.edu
 Jill Haffner | jvh6089@psu.edu 
 Blaine Hoak | bdh22@psu.edu 
 
- 
-
 **Credits:** 1 
 
 **Sections/Time/Location:** M 6:00-8:00PM (Location: TBD) 
@@ -27,19 +25,19 @@ Blaine Hoak | bdh22@psu.edu
 ## Overview
 
 Systems programming concerns the development of software and services used by applications and operating systems, e.g., OS functions, defragmenter, web-servers, databases, search tools, backup systems, etc.  This course will provide core skills required to understand, design and implement components of large and small software systems. It will provide an introduction to programming with C and Unix. Lectures and course assignments will be primarily targeted towards skills building in preparation for taking later courses (including CMPSC311). A third of the time will be spent reviewing conceptual material, and the remaining two-thirds will be reserved for working on projects to exercise concepts and improve the students’ skills. The topics of focus will be primarily how to use VMs and terminals, basics of programming, basics of programming in C, debugging code, etc. 
-
 ## Schedule
 
-Date | Topic 
---- | ---
-Monday, November 1st 6pm - 8pm | TBD
-Monday, November 8th 6pm - 8pm | TBD
-Monday, November 15th 6pm - 8pm | TBD
-(Thanksgiving Break) | 
-Monday, November 29th 6pm - 8pm | TBD
-Monday, December 6th 6pm - 8pm | TBD
-Monday, December 13th 6pm - 8pm | TBD
-(Finals week) |
+
+Date | Topic | Note 
+--- | --- | ---
+Monday, November 1st 6pm - 8pm | Command Line Interface & Control Flow | You must have access to a working VM, see [vm_setup_tutorial.pdf](files/vm_setup_tutorial.pdf)
+Monday, November 8th 6pm - 8pm | TBD |
+Monday, November 15th 6pm - 8pm | TBD |
+(Thanksgiving Break)  | |
+Monday, November 29th 6pm - 8pm | TBD |
+Monday, December 6th 6pm - 8pm | TBD |
+Monday, December 13th 6pm - 8pm | TBD |
+(Finals week) | |
 
 ## Grading 
 
