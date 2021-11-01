@@ -35,8 +35,8 @@ Monday, November 15th 6pm - 8pm | TBD |
 (Thanksgiving Break)  | |
 Monday, November 29th 6pm - 8pm | TBD |
 Monday, December 6th 6pm - 8pm | TBD |
-Monday, December 13th 6pm - 8pm | TBD |
-(Finals week) | |
+Monday, December 13th 6pm - 8pm | In class final test coding project | 
+(Finals week) | | Nothing during finals week
 
 ## Grading 
 
@@ -44,7 +44,8 @@ The course will be graded on course projects:
 
 Percentage | Activity 
 --- | ---  
-100% | Course Projects 
+100% | Course Projects
+
 
 **NOTE:**  
 1. _You must be present at every lecture to pass the class._
