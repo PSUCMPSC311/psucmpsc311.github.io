@@ -16,7 +16,6 @@ Yohan Beugin | yohan@beugin.org
 Sophia Beyda | beyda@psu.edu 
 Rachel King | rak5519@psu.edu 
 Jill Haffner | jvh6089@psu.edu 
-Blaine Hoak | bdh22@psu.edu 
 
 **Credits:** 1 
 
