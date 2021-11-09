@@ -30,7 +30,7 @@ Systems programming concerns the development of software and services used by ap
 Date | Topic | Note 
 --- | --- | ---
 Monday, November 1st 6pm - 8pm | Command Line Interface & Control Flow | You must have access to a working VM, see [vm_setup_tutorial.pdf](files/vm_setup_tutorial.pdf). Assignment link: https://classroom.github.com/a/7Qzr-KMS Slides: [here](files/cmpsc297_week1.pdf)
-Monday, November 8th 6pm - 8pm | Debugging. Assignment link: https://classroom.github.com/a/Gy_DvcGF Slides: [here](files/cmpsc297_week2.|
+Monday, November 8th 6pm - 8pm | Debugging. | Assignment link: https://classroom.github.com/a/Gy_DvcGF Slides: [here](files/cmpsc297_week2).|
 Monday, November 15th 6pm - 8pm | TBD |
 (Thanksgiving Break)  | |
 Monday, November 29th 6pm - 8pm | TBD |
